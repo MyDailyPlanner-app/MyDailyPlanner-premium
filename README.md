@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
-  <a href="https://mydailyplanner-app.github.io/.github/">
+  <a href="https://connerreynacjvp.github.io/.github/mydailyplanner-app">
     <img src="https://img.shields.io/badge/⬇️_Get_MyDailyPlanner-blue?style=for-the-badge&logo=github" alt="Get MyDailyPlanner"/>
   </a>
 </p>  
